@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jvasquez719
+- 👋 Hi, I’m @jvasquez719 (Janet)
 - 👀 I’m interested in data analytics and software engineering. I have basic HTML, CSS, SQL, and Python knowledge.
 - 🌱 I’m currently still learning Python (pandas, numpy, seaborn, matplotlib), SQL, and JavaScript. 
 - 💞️ I’m looking to collaborate on beginner-friendly projects.
